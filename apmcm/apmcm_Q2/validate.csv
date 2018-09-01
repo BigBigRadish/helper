@@ -1,0 +1,1765 @@
+,Sector,total_monthes,total_demand
+0,Computer software,37,120.0
+1,Sales management,37,2578.0
+2,market/marketing,37,2005.0
+3,Sales,37,5123.0
+4,Computer hardware,37,51.0
+5,Internet development and application,37,136.0
+6,IT-Management,37,48.0
+7,"IT-QM, technical support and more",37,33.0
+8,Communications technology,37,12.0
+9,Electronics/appliances/semiconductor/instrumentation,37,568.0
+10,Finance/auditing/tax,37,349.0
+11,Engineering/machinery/energy,37,297.0
+12,HR,37,353.0
+13,Senior management,37,39.0
+14,Logistics/warehousing,37,437.0
+15,Art/graphics/Animation design,37,239.0
+16,Science & Technology,37,56.0
+17,Legal profession/law,37,61.0
+18,Education,37,243.0
+19,Hospital/medical/care,37,258.0
+20,Counsel/consulting,37,435.0
+21,Transportation service,37,107.0
+22,Translation,37,68.0
+23,Construction/infrastructure/gardening,37,519.0
+24,Office administration/logistics,37,684.0
+25,Customer service and technical support,37,994.0
+26,Securities/finance/investment,37,408.0
+27,Insurance,37,295.0
+28,Production/operation,37,300.0
+29,QMS/safety/environmental protection,37,174.0
+30,Technical work,37,1616.0
+31,Procurement,37,6.0
+32,Trade,37,6.0
+33,Biology/chemicals/pharmaceuticals/medical equipment,37,47.0
+34,Advertising,37,44.0
+35,PRs and news media,37,57.0
+36,"Movies, TV and recreation",37,36.0
+37,Literature/screenwriting/writing,37,38.0
+38,Real property,37,1020.0
+39,Property management,37,78.0
+40,Restaurants & recreation,37,932.0
+41,Hotels/tourism,37,36.0
+42,Beauty and personal care,37,199.0
+43,General merchandise/chains/retail,37,540.0
+44,Security/housekeeping/other,37,166.0
+45,Graduates,37,509.0
+46,Other,37,865.0
+47,Fashion/textile/furs,37,32.0
+48,Banking,37,11.0
+49,Computer software,38,115.0
+50,Sales management,38,2574.0
+51,market/marketing,38,2001.0
+52,Sales,38,5119.0
+53,Computer hardware,38,55.0
+54,Internet development and application,38,132.0
+55,IT-Management,38,53.0
+56,"IT-QM, technical support and more",38,28.0
+57,Communications technology,38,16.0
+58,Electronics/appliances/semiconductor/instrumentation,38,564.0
+59,Finance/auditing/tax,38,345.0
+60,Engineering/machinery/energy,38,292.0
+61,HR,38,349.0
+62,Senior management,38,43.0
+63,Logistics/warehousing,38,433.0
+64,Art/graphics/Animation design,38,235.0
+65,Science & Technology,38,60.0
+66,Legal profession/law,38,66.0
+67,Education,38,239.0
+68,Hospital/medical/care,38,253.0
+69,Counsel/consulting,38,431.0
+70,Transportation service,38,103.0
+71,Translation,38,72.0
+72,Construction/infrastructure/gardening,38,515.0
+73,Office administration/logistics,38,679.0
+74,Customer service and technical support,38,989.0
+75,Securities/finance/investment,38,404.0
+76,Insurance,38,291.0
+77,Production/operation,38,296.0
+78,QMS/safety/environmental protection,38,169.0
+79,Technical work,38,1612.0
+80,Procurement,38,10.0
+81,Trade,38,10.0
+82,Biology/chemicals/pharmaceuticals/medical equipment,38,43.0
+83,Advertising,38,49.0
+84,PRs and news media,38,61.0
+85,"Movies, TV and recreation",38,41.0
+86,Literature/screenwriting/writing,38,42.0
+87,Real property,38,1016.0
+88,Property management,38,74.0
+89,Restaurants & recreation,38,928.0
+90,Hotels/tourism,38,32.0
+91,Beauty and personal care,38,195.0
+92,General merchandise/chains/retail,38,535.0
+93,Security/housekeeping/other,38,161.0
+94,Graduates,38,505.0
+95,Other,38,861.0
+96,Fashion/textile/furs,38,36.0
+97,Banking,38,7.0
+98,Computer software,39,111.0
+99,Sales management,39,2570.0
+100,market/marketing,39,1997.0
+101,Sales,39,5115.0
+102,Computer hardware,39,59.0
+103,Internet development and application,39,128.0
+104,IT-Management,39,57.0
+105,"IT-QM, technical support and more",39,24.0
+106,Communications technology,39,20.0
+107,Electronics/appliances/semiconductor/instrumentation,39,560.0
+108,Finance/auditing/tax,39,341.0
+109,Engineering/machinery/energy,39,288.0
+110,HR,39,345.0
+111,Senior management,39,47.0
+112,Logistics/warehousing,39,429.0
+113,Art/graphics/Animation design,39,231.0
+114,Science & Technology,39,65.0
+115,Legal profession/law,39,70.0
+116,Education,39,234.0
+117,Hospital/medical/care,39,249.0
+118,Counsel/consulting,39,426.0
+119,Transportation service,39,98.0
+120,Translation,39,76.0
+121,Construction/infrastructure/gardening,39,510.0
+122,Office administration/logistics,39,675.0
+123,Customer service and technical support,39,985.0
+124,Securities/finance/investment,39,400.0
+125,Insurance,39,287.0
+126,Production/operation,39,292.0
+127,QMS/safety/environmental protection,39,165.0
+128,Technical work,39,1608.0
+129,Procurement,39,15.0
+130,Trade,39,14.0
+131,Biology/chemicals/pharmaceuticals/medical equipment,39,39.0
+132,Advertising,39,53.0
+133,PRs and news media,39,66.0
+134,"Movies, TV and recreation",39,45.0
+135,Literature/screenwriting/writing,39,46.0
+136,Real property,39,1011.0
+137,Property management,39,70.0
+138,Restaurants & recreation,39,924.0
+139,Hotels/tourism,39,28.0
+140,Beauty and personal care,39,191.0
+141,General merchandise/chains/retail,39,531.0
+142,Security/housekeeping/other,39,157.0
+143,Graduates,39,501.0
+144,Other,39,856.0
+145,Fashion/textile/furs,39,40.0
+146,Banking,39,2.0
+147,Computer software,40,107.0
+148,Sales management,40,2566.0
+149,market/marketing,40,1993.0
+150,Sales,40,5111.0
+151,Computer hardware,40,63.0
+152,Internet development and application,40,124.0
+153,IT-Management,40,61.0
+154,"IT-QM, technical support and more",40,20.0
+155,Communications technology,40,24.0
+156,Electronics/appliances/semiconductor/instrumentation,40,555.0
+157,Finance/auditing/tax,40,337.0
+158,Engineering/machinery/energy,40,284.0
+159,HR,40,340.0
+160,Senior management,40,52.0
+161,Logistics/warehousing,40,424.0
+162,Art/graphics/Animation design,40,227.0
+163,Science & Technology,40,69.0
+164,Legal profession/law,40,74.0
+165,Education,40,230.0
+166,Hospital/medical/care,40,245.0
+167,Counsel/consulting,40,422.0
+168,Transportation service,40,94.0
+169,Translation,40,81.0
+170,Construction/infrastructure/gardening,40,506.0
+171,Office administration/logistics,40,671.0
+172,Customer service and technical support,40,981.0
+173,Securities/finance/investment,40,396.0
+174,Insurance,40,282.0
+175,Production/operation,40,287.0
+176,QMS/safety/environmental protection,40,161.0
+177,Technical work,40,1604.0
+178,Procurement,40,19.0
+179,Trade,40,18.0
+180,Biology/chemicals/pharmaceuticals/medical equipment,40,34.0
+181,Advertising,40,57.0
+182,PRs and news media,40,70.0
+183,"Movies, TV and recreation",40,49.0
+184,Literature/screenwriting/writing,40,50.0
+185,Real property,40,1007.0
+186,Property management,40,65.0
+187,Restaurants & recreation,40,919.0
+188,Hotels/tourism,40,23.0
+189,Beauty and personal care,40,186.0
+190,General merchandise/chains/retail,40,527.0
+191,Security/housekeeping/other,40,153.0
+192,Graduates,40,497.0
+193,Other,40,852.0
+194,Fashion/textile/furs,40,45.0
+195,Banking,40,2.0
+196,Computer software,41,103.0
+197,Sales management,41,2561.0
+198,market/marketing,41,1988.0
+199,Sales,41,5107.0
+200,Computer hardware,41,67.0
+201,Internet development and application,41,119.0
+202,IT-Management,41,65.0
+203,"IT-QM, technical support and more",41,16.0
+204,Communications technology,41,29.0
+205,Electronics/appliances/semiconductor/instrumentation,41,551.0
+206,Finance/auditing/tax,41,333.0
+207,Engineering/machinery/energy,41,280.0
+208,HR,41,336.0
+209,Senior management,41,56.0
+210,Logistics/warehousing,41,420.0
+211,Art/graphics/Animation design,41,222.0
+212,Science & Technology,41,73.0
+213,Legal profession/law,41,78.0
+214,Education,41,226.0
+215,Hospital/medical/care,41,241.0
+216,Counsel/consulting,41,418.0
+217,Transportation service,41,90.0
+218,Translation,41,85.0
+219,Construction/infrastructure/gardening,41,502.0
+220,Office administration/logistics,41,667.0
+221,Customer service and technical support,41,977.0
+222,Securities/finance/investment,41,391.0
+223,Insurance,41,278.0
+224,Production/operation,41,283.0
+225,QMS/safety/environmental protection,41,157.0
+226,Technical work,41,1600.0
+227,Procurement,41,23.0
+228,Trade,41,23.0
+229,Biology/chemicals/pharmaceuticals/medical equipment,41,30.0
+230,Advertising,41,61.0
+231,PRs and news media,41,74.0
+232,"Movies, TV and recreation",41,53.0
+233,Literature/screenwriting/writing,41,55.0
+234,Real property,41,1003.0
+235,Property management,41,61.0
+236,Restaurants & recreation,41,915.0
+237,Hotels/tourism,41,19.0
+238,Beauty and personal care,41,182.0
+239,General merchandise/chains/retail,41,523.0
+240,Security/housekeeping/other,41,149.0
+241,Graduates,41,492.0
+242,Other,41,848.0
+243,Fashion/textile/furs,41,49.0
+244,Banking,41,6.0
+245,Computer software,42,98.0
+246,Sales management,42,2557.0
+247,market/marketing,42,1984.0
+248,Sales,42,5102.0
+249,Computer hardware,42,72.0
+250,Internet development and application,42,115.0
+251,IT-Management,42,70.0
+252,"IT-QM, technical support and more",42,12.0
+253,Communications technology,42,33.0
+254,Electronics/appliances/semiconductor/instrumentation,42,547.0
+255,Finance/auditing/tax,42,328.0
+256,Engineering/machinery/energy,42,275.0
+257,HR,42,332.0
+258,Senior management,42,60.0
+259,Logistics/warehousing,42,416.0
+260,Art/graphics/Animation design,42,218.0
+261,Science & Technology,42,77.0
+262,Legal profession/law,42,83.0
+263,Education,42,222.0
+264,Hospital/medical/care,42,237.0
+265,Counsel/consulting,42,414.0
+266,Transportation service,42,86.0
+267,Translation,42,89.0
+268,Construction/infrastructure/gardening,42,498.0
+269,Office administration/logistics,42,662.0
+270,Customer service and technical support,42,973.0
+271,Securities/finance/investment,42,387.0
+272,Insurance,42,274.0
+273,Production/operation,42,279.0
+274,QMS/safety/environmental protection,42,152.0
+275,Technical work,42,1595.0
+276,Procurement,42,27.0
+277,Trade,42,27.0
+278,Biology/chemicals/pharmaceuticals/medical equipment,42,26.0
+279,Advertising,42,65.0
+280,PRs and news media,42,78.0
+281,"Movies, TV and recreation",42,58.0
+282,Literature/screenwriting/writing,42,59.0
+283,Real property,42,999.0
+284,Property management,42,57.0
+285,Restaurants & recreation,42,911.0
+286,Hotels/tourism,42,15.0
+287,Beauty and personal care,42,178.0
+288,General merchandise/chains/retail,42,518.0
+289,Security/housekeeping/other,42,144.0
+290,Graduates,42,488.0
+291,Other,42,844.0
+292,Fashion/textile/furs,42,53.0
+293,Banking,42,10.0
+294,Computer software,43,94.0
+295,Sales management,43,2553.0
+296,market/marketing,43,1980.0
+297,Sales,43,5098.0
+298,Computer hardware,43,76.0
+299,Internet development and application,43,111.0
+300,IT-Management,43,74.0
+301,"IT-QM, technical support and more",43,7.0
+302,Communications technology,43,37.0
+303,Electronics/appliances/semiconductor/instrumentation,43,543.0
+304,Finance/auditing/tax,43,324.0
+305,Engineering/machinery/energy,43,271.0
+306,HR,43,328.0
+307,Senior management,43,64.0
+308,Logistics/warehousing,43,412.0
+309,Art/graphics/Animation design,43,214.0
+310,Science & Technology,43,82.0
+311,Legal profession/law,43,87.0
+312,Education,43,217.0
+313,Hospital/medical/care,43,232.0
+314,Counsel/consulting,43,410.0
+315,Transportation service,43,82.0
+316,Translation,43,93.0
+317,Construction/infrastructure/gardening,43,493.0
+318,Office administration/logistics,43,658.0
+319,Customer service and technical support,43,968.0
+320,Securities/finance/investment,43,383.0
+321,Insurance,43,270.0
+322,Production/operation,43,275.0
+323,QMS/safety/environmental protection,43,148.0
+324,Technical work,43,1591.0
+325,Procurement,43,32.0
+326,Trade,43,31.0
+327,Biology/chemicals/pharmaceuticals/medical equipment,43,22.0
+328,Advertising,43,70.0
+329,PRs and news media,43,83.0
+330,"Movies, TV and recreation",43,62.0
+331,Literature/screenwriting/writing,43,63.0
+332,Real property,43,994.0
+333,Property management,43,53.0
+334,Restaurants & recreation,43,907.0
+335,Hotels/tourism,43,11.0
+336,Beauty and personal care,43,174.0
+337,General merchandise/chains/retail,43,514.0
+338,Security/housekeeping/other,43,140.0
+339,Graduates,43,484.0
+340,Other,43,839.0
+341,Fashion/textile/furs,43,57.0
+342,Banking,43,14.0
+343,Computer software,44,90.0
+344,Sales management,44,2549.0
+345,market/marketing,44,1976.0
+346,Sales,44,5094.0
+347,Computer hardware,44,80.0
+348,Internet development and application,44,107.0
+349,IT-Management,44,78.0
+350,"IT-QM, technical support and more",44,3.0
+351,Communications technology,44,41.0
+352,Electronics/appliances/semiconductor/instrumentation,44,538.0
+353,Finance/auditing/tax,44,320.0
+354,Engineering/machinery/energy,44,267.0
+355,HR,44,323.0
+356,Senior management,44,69.0
+357,Logistics/warehousing,44,408.0
+358,Art/graphics/Animation design,44,210.0
+359,Science & Technology,44,86.0
+360,Legal profession/law,44,91.0
+361,Education,44,213.0
+362,Hospital/medical/care,44,228.0
+363,Counsel/consulting,44,405.0
+364,Transportation service,44,77.0
+365,Translation,44,98.0
+366,Construction/infrastructure/gardening,44,489.0
+367,Office administration/logistics,44,654.0
+368,Customer service and technical support,44,964.0
+369,Securities/finance/investment,44,379.0
+370,Insurance,44,265.0
+371,Production/operation,44,270.0
+372,QMS/safety/environmental protection,44,144.0
+373,Technical work,44,1587.0
+374,Procurement,44,36.0
+375,Trade,44,35.0
+376,Biology/chemicals/pharmaceuticals/medical equipment,44,17.0
+377,Advertising,44,74.0
+378,PRs and news media,44,87.0
+379,"Movies, TV and recreation",44,66.0
+380,Literature/screenwriting/writing,44,67.0
+381,Real property,44,990.0
+382,Property management,44,49.0
+383,Restaurants & recreation,44,902.0
+384,Hotels/tourism,44,7.0
+385,Beauty and personal care,44,169.0
+386,General merchandise/chains/retail,44,510.0
+387,Security/housekeeping/other,44,136.0
+388,Graduates,44,480.0
+389,Other,44,835.0
+390,Fashion/textile/furs,44,62.0
+391,Banking,44,19.0
+392,Computer software,45,86.0
+393,Sales management,45,2545.0
+394,market/marketing,45,1971.0
+395,Sales,45,5090.0
+396,Computer hardware,45,84.0
+397,Internet development and application,45,102.0
+398,IT-Management,45,82.0
+399,"IT-QM, technical support and more",45,1.0
+400,Communications technology,45,45.0
+401,Electronics/appliances/semiconductor/instrumentation,45,534.0
+402,Finance/auditing/tax,45,316.0
+403,Engineering/machinery/energy,45,263.0
+404,HR,45,319.0
+405,Senior management,45,73.0
+406,Logistics/warehousing,45,403.0
+407,Art/graphics/Animation design,45,206.0
+408,Science & Technology,45,90.0
+409,Legal profession/law,45,95.0
+410,Education,45,209.0
+411,Hospital/medical/care,45,224.0
+412,Counsel/consulting,45,401.0
+413,Transportation service,45,73.0
+414,Translation,45,102.0
+415,Construction/infrastructure/gardening,45,485.0
+416,Office administration/logistics,45,650.0
+417,Customer service and technical support,45,960.0
+418,Securities/finance/investment,45,375.0
+419,Insurance,45,261.0
+420,Production/operation,45,266.0
+421,QMS/safety/environmental protection,45,140.0
+422,Technical work,45,1583.0
+423,Procurement,45,40.0
+424,Trade,45,40.0
+425,Biology/chemicals/pharmaceuticals/medical equipment,45,13.0
+426,Advertising,45,78.0
+427,PRs and news media,45,91.0
+428,"Movies, TV and recreation",45,70.0
+429,Literature/screenwriting/writing,45,71.0
+430,Real property,45,986.0
+431,Property management,45,44.0
+432,Restaurants & recreation,45,898.0
+433,Hotels/tourism,45,2.0
+434,Beauty and personal care,45,165.0
+435,General merchandise/chains/retail,45,506.0
+436,Security/housekeeping/other,45,132.0
+437,Graduates,45,475.0
+438,Other,45,831.0
+439,Fashion/textile/furs,45,66.0
+440,Banking,45,23.0
+441,Computer software,46,81.0
+442,Sales management,46,2540.0
+443,market/marketing,46,1967.0
+444,Sales,46,5085.0
+445,Computer hardware,46,89.0
+446,Internet development and application,46,98.0
+447,IT-Management,46,87.0
+448,"IT-QM, technical support and more",46,5.0
+449,Communications technology,46,50.0
+450,Electronics/appliances/semiconductor/instrumentation,46,530.0
+451,Finance/auditing/tax,46,311.0
+452,Engineering/machinery/energy,46,259.0
+453,HR,46,315.0
+454,Senior management,46,77.0
+455,Logistics/warehousing,46,399.0
+456,Art/graphics/Animation design,46,201.0
+457,Science & Technology,46,94.0
+458,Legal profession/law,46,100.0
+459,Education,46,205.0
+460,Hospital/medical/care,46,220.0
+461,Counsel/consulting,46,397.0
+462,Transportation service,46,69.0
+463,Translation,46,106.0
+464,Construction/infrastructure/gardening,46,481.0
+465,Office administration/logistics,46,646.0
+466,Customer service and technical support,46,956.0
+467,Securities/finance/investment,46,370.0
+468,Insurance,46,257.0
+469,Production/operation,46,262.0
+470,QMS/safety/environmental protection,46,135.0
+471,Technical work,46,1578.0
+472,Procurement,46,44.0
+473,Trade,46,44.0
+474,Biology/chemicals/pharmaceuticals/medical equipment,46,9.0
+475,Advertising,46,82.0
+476,PRs and news media,46,95.0
+477,"Movies, TV and recreation",46,74.0
+478,Literature/screenwriting/writing,46,76.0
+479,Real property,46,982.0
+480,Property management,46,40.0
+481,Restaurants & recreation,46,894.0
+482,Hotels/tourism,46,2.0
+483,Beauty and personal care,46,161.0
+484,General merchandise/chains/retail,46,501.0
+485,Security/housekeeping/other,46,127.0
+486,Graduates,46,471.0
+487,Other,46,827.0
+488,Fashion/textile/furs,46,70.0
+489,Banking,46,27.0
+490,Computer software,47,77.0
+491,Sales management,47,2536.0
+492,market/marketing,47,1963.0
+493,Sales,47,5081.0
+494,Computer hardware,47,93.0
+495,Internet development and application,47,94.0
+496,IT-Management,47,91.0
+497,"IT-QM, technical support and more",47,10.0
+498,Communications technology,47,54.0
+499,Electronics/appliances/semiconductor/instrumentation,47,526.0
+500,Finance/auditing/tax,47,307.0
+501,Engineering/machinery/energy,47,254.0
+502,HR,47,311.0
+503,Senior management,47,81.0
+504,Logistics/warehousing,47,395.0
+505,Art/graphics/Animation design,47,197.0
+506,Science & Technology,47,99.0
+507,Legal profession/law,47,104.0
+508,Education,47,201.0
+509,Hospital/medical/care,47,215.0
+510,Counsel/consulting,47,393.0
+511,Transportation service,47,65.0
+512,Translation,47,110.0
+513,Construction/infrastructure/gardening,47,476.0
+514,Office administration/logistics,47,641.0
+515,Customer service and technical support,47,951.0
+516,Securities/finance/investment,47,366.0
+517,Insurance,47,253.0
+518,Production/operation,47,258.0
+519,QMS/safety/environmental protection,47,131.0
+520,Technical work,47,1574.0
+521,Procurement,47,49.0
+522,Trade,47,48.0
+523,Biology/chemicals/pharmaceuticals/medical equipment,47,5.0
+524,Advertising,47,87.0
+525,PRs and news media,47,99.0
+526,"Movies, TV and recreation",47,79.0
+527,Literature/screenwriting/writing,47,80.0
+528,Real property,47,977.0
+529,Property management,47,36.0
+530,Restaurants & recreation,47,890.0
+531,Hotels/tourism,47,6.0
+532,Beauty and personal care,47,157.0
+533,General merchandise/chains/retail,47,497.0
+534,Security/housekeeping/other,47,123.0
+535,Graduates,47,467.0
+536,Other,47,822.0
+537,Fashion/textile/furs,47,74.0
+538,Banking,47,31.0
+539,Computer software,48,73.0
+540,Sales management,48,2532.0
+541,market/marketing,48,1959.0
+542,Sales,48,5077.0
+543,Computer hardware,48,97.0
+544,Internet development and application,48,90.0
+545,IT-Management,48,95.0
+546,"IT-QM, technical support and more",48,14.0
+547,Communications technology,48,58.0
+548,Electronics/appliances/semiconductor/instrumentation,48,521.0
+549,Finance/auditing/tax,48,303.0
+550,Engineering/machinery/energy,48,250.0
+551,HR,48,307.0
+552,Senior management,48,85.0
+553,Logistics/warehousing,48,391.0
+554,Art/graphics/Animation design,48,193.0
+555,Science & Technology,48,103.0
+556,Legal profession/law,48,108.0
+557,Education,48,196.0
+558,Hospital/medical/care,48,211.0
+559,Counsel/consulting,48,388.0
+560,Transportation service,48,60.0
+561,Translation,48,115.0
+562,Construction/infrastructure/gardening,48,472.0
+563,Office administration/logistics,48,637.0
+564,Customer service and technical support,48,947.0
+565,Securities/finance/investment,48,362.0
+566,Insurance,48,249.0
+567,Production/operation,48,254.0
+568,QMS/safety/environmental protection,48,127.0
+569,Technical work,48,1570.0
+570,Procurement,48,53.0
+571,Trade,48,52.0
+572,Biology/chemicals/pharmaceuticals/medical equipment,48,1.0
+573,Advertising,48,91.0
+574,PRs and news media,48,104.0
+575,"Movies, TV and recreation",48,83.0
+576,Literature/screenwriting/writing,48,84.0
+577,Real property,48,973.0
+578,Property management,48,32.0
+579,Restaurants & recreation,48,885.0
+580,Hotels/tourism,48,10.0
+581,Beauty and personal care,48,152.0
+582,General merchandise/chains/retail,48,493.0
+583,Security/housekeeping/other,48,119.0
+584,Graduates,48,463.0
+585,Other,48,818.0
+586,Fashion/textile/furs,48,78.0
+587,Banking,48,36.0
+588,Computer software,49,69.0
+589,Sales management,49,2528.0
+590,market/marketing,49,1954.0
+591,Sales,49,5073.0
+592,Computer hardware,49,101.0
+593,Internet development and application,49,85.0
+594,IT-Management,49,99.0
+595,"IT-QM, technical support and more",49,18.0
+596,Communications technology,49,62.0
+597,Electronics/appliances/semiconductor/instrumentation,49,517.0
+598,Finance/auditing/tax,49,299.0
+599,Engineering/machinery/energy,49,246.0
+600,HR,49,302.0
+601,Senior management,49,90.0
+602,Logistics/warehousing,49,386.0
+603,Art/graphics/Animation design,49,189.0
+604,Science & Technology,49,107.0
+605,Legal profession/law,49,112.0
+606,Education,49,192.0
+607,Hospital/medical/care,49,207.0
+608,Counsel/consulting,49,384.0
+609,Transportation service,49,56.0
+610,Translation,49,119.0
+611,Construction/infrastructure/gardening,49,468.0
+612,Office administration/logistics,49,633.0
+613,Customer service and technical support,49,943.0
+614,Securities/finance/investment,49,358.0
+615,Insurance,49,244.0
+616,Production/operation,49,249.0
+617,QMS/safety/environmental protection,49,123.0
+618,Technical work,49,1566.0
+619,Procurement,49,57.0
+620,Trade,49,56.0
+621,Biology/chemicals/pharmaceuticals/medical equipment,49,4.0
+622,Advertising,49,95.0
+623,PRs and news media,49,108.0
+624,"Movies, TV and recreation",49,87.0
+625,Literature/screenwriting/writing,49,88.0
+626,Real property,49,969.0
+627,Property management,49,27.0
+628,Restaurants & recreation,49,881.0
+629,Hotels/tourism,49,15.0
+630,Beauty and personal care,49,148.0
+631,General merchandise/chains/retail,49,489.0
+632,Security/housekeeping/other,49,115.0
+633,Graduates,49,458.0
+634,Other,49,814.0
+635,Fashion/textile/furs,49,83.0
+636,Banking,49,40.0
+637,Computer software,50,64.0
+638,Sales management,50,2523.0
+639,market/marketing,50,1950.0
+640,Sales,50,5068.0
+641,Computer hardware,50,106.0
+642,Internet development and application,50,81.0
+643,IT-Management,50,103.0
+644,"IT-QM, technical support and more",50,22.0
+645,Communications technology,50,67.0
+646,Electronics/appliances/semiconductor/instrumentation,50,513.0
+647,Finance/auditing/tax,50,294.0
+648,Engineering/machinery/energy,50,242.0
+649,HR,50,298.0
+650,Senior management,50,94.0
+651,Logistics/warehousing,50,382.0
+652,Art/graphics/Animation design,50,184.0
+653,Science & Technology,50,111.0
+654,Legal profession/law,50,117.0
+655,Education,50,188.0
+656,Hospital/medical/care,50,203.0
+657,Counsel/consulting,50,380.0
+658,Transportation service,50,52.0
+659,Translation,50,123.0
+660,Construction/infrastructure/gardening,50,464.0
+661,Office administration/logistics,50,629.0
+662,Customer service and technical support,50,939.0
+663,Securities/finance/investment,50,353.0
+664,Insurance,50,240.0
+665,Production/operation,50,245.0
+666,QMS/safety/environmental protection,50,118.0
+667,Technical work,50,1561.0
+668,Procurement,50,61.0
+669,Trade,50,61.0
+670,Biology/chemicals/pharmaceuticals/medical equipment,50,8.0
+671,Advertising,50,99.0
+672,PRs and news media,50,112.0
+673,"Movies, TV and recreation",50,91.0
+674,Literature/screenwriting/writing,50,93.0
+675,Real property,50,965.0
+676,Property management,50,23.0
+677,Restaurants & recreation,50,877.0
+678,Hotels/tourism,50,19.0
+679,Beauty and personal care,50,144.0
+680,General merchandise/chains/retail,50,485.0
+681,Security/housekeeping/other,50,111.0
+682,Graduates,50,454.0
+683,Other,50,810.0
+684,Fashion/textile/furs,50,87.0
+685,Banking,50,44.0
+686,Computer software,51,60.0
+687,Sales management,51,2519.0
+688,market/marketing,51,1946.0
+689,Sales,51,5064.0
+690,Computer hardware,51,110.0
+691,Internet development and application,51,77.0
+692,IT-Management,51,108.0
+693,"IT-QM, technical support and more",51,27.0
+694,Communications technology,51,71.0
+695,Electronics/appliances/semiconductor/instrumentation,51,509.0
+696,Finance/auditing/tax,51,290.0
+697,Engineering/machinery/energy,51,237.0
+698,HR,51,294.0
+699,Senior management,51,98.0
+700,Logistics/warehousing,51,378.0
+701,Art/graphics/Animation design,51,180.0
+702,Science & Technology,51,116.0
+703,Legal profession/law,51,121.0
+704,Education,51,184.0
+705,Hospital/medical/care,51,198.0
+706,Counsel/consulting,51,376.0
+707,Transportation service,51,48.0
+708,Translation,51,127.0
+709,Construction/infrastructure/gardening,51,459.0
+710,Office administration/logistics,51,624.0
+711,Customer service and technical support,51,934.0
+712,Securities/finance/investment,51,349.0
+713,Insurance,51,236.0
+714,Production/operation,51,241.0
+715,QMS/safety/environmental protection,51,114.0
+716,Technical work,51,1557.0
+717,Procurement,51,65.0
+718,Trade,51,65.0
+719,Biology/chemicals/pharmaceuticals/medical equipment,51,12.0
+720,Advertising,51,104.0
+721,PRs and news media,51,116.0
+722,"Movies, TV and recreation",51,96.0
+723,Literature/screenwriting/writing,51,97.0
+724,Real property,51,961.0
+725,Property management,51,19.0
+726,Restaurants & recreation,51,873.0
+727,Hotels/tourism,51,23.0
+728,Beauty and personal care,51,140.0
+729,General merchandise/chains/retail,51,480.0
+730,Security/housekeeping/other,51,106.0
+731,Graduates,51,450.0
+732,Other,51,805.0
+733,Fashion/textile/furs,51,91.0
+734,Banking,51,48.0
+735,Computer software,52,56.0
+736,Sales management,52,2515.0
+737,market/marketing,52,1942.0
+738,Sales,52,5060.0
+739,Computer hardware,52,114.0
+740,Internet development and application,52,73.0
+741,IT-Management,52,112.0
+742,"IT-QM, technical support and more",52,31.0
+743,Communications technology,52,75.0
+744,Electronics/appliances/semiconductor/instrumentation,52,505.0
+745,Finance/auditing/tax,52,286.0
+746,Engineering/machinery/energy,52,233.0
+747,HR,52,290.0
+748,Senior management,52,102.0
+749,Logistics/warehousing,52,374.0
+750,Art/graphics/Animation design,52,176.0
+751,Science & Technology,52,120.0
+752,Legal profession/law,52,125.0
+753,Education,52,179.0
+754,Hospital/medical/care,52,194.0
+755,Counsel/consulting,52,371.0
+756,Transportation service,52,43.0
+757,Translation,52,131.0
+758,Construction/infrastructure/gardening,52,455.0
+759,Office administration/logistics,52,620.0
+760,Customer service and technical support,52,930.0
+761,Securities/finance/investment,52,345.0
+762,Insurance,52,232.0
+763,Production/operation,52,237.0
+764,QMS/safety/environmental protection,52,110.0
+765,Technical work,52,1553.0
+766,Procurement,52,70.0
+767,Trade,52,69.0
+768,Biology/chemicals/pharmaceuticals/medical equipment,52,16.0
+769,Advertising,52,108.0
+770,PRs and news media,52,121.0
+771,"Movies, TV and recreation",52,100.0
+772,Literature/screenwriting/writing,52,101.0
+773,Real property,52,956.0
+774,Property management,52,15.0
+775,Restaurants & recreation,52,868.0
+776,Hotels/tourism,52,27.0
+777,Beauty and personal care,52,136.0
+778,General merchandise/chains/retail,52,476.0
+779,Security/housekeeping/other,52,102.0
+780,Graduates,52,446.0
+781,Other,52,801.0
+782,Fashion/textile/furs,52,95.0
+783,Banking,52,53.0
+784,Computer software,53,52.0
+785,Sales management,53,2511.0
+786,market/marketing,53,1937.0
+787,Sales,53,5056.0
+788,Computer hardware,53,118.0
+789,Internet development and application,53,69.0
+790,IT-Management,53,116.0
+791,"IT-QM, technical support and more",53,35.0
+792,Communications technology,53,79.0
+793,Electronics/appliances/semiconductor/instrumentation,53,500.0
+794,Finance/auditing/tax,53,282.0
+795,Engineering/machinery/energy,53,229.0
+796,HR,53,285.0
+797,Senior management,53,107.0
+798,Logistics/warehousing,53,369.0
+799,Art/graphics/Animation design,53,172.0
+800,Science & Technology,53,124.0
+801,Legal profession/law,53,129.0
+802,Education,53,175.0
+803,Hospital/medical/care,53,190.0
+804,Counsel/consulting,53,367.0
+805,Transportation service,53,39.0
+806,Translation,53,136.0
+807,Construction/infrastructure/gardening,53,451.0
+808,Office administration/logistics,53,616.0
+809,Customer service and technical support,53,926.0
+810,Securities/finance/investment,53,341.0
+811,Insurance,53,227.0
+812,Production/operation,53,232.0
+813,QMS/safety/environmental protection,53,106.0
+814,Technical work,53,1549.0
+815,Procurement,53,74.0
+816,Trade,53,73.0
+817,Biology/chemicals/pharmaceuticals/medical equipment,53,21.0
+818,Advertising,53,112.0
+819,PRs and news media,53,125.0
+820,"Movies, TV and recreation",53,104.0
+821,Literature/screenwriting/writing,53,105.0
+822,Real property,53,952.0
+823,Property management,53,10.0
+824,Restaurants & recreation,53,864.0
+825,Hotels/tourism,53,32.0
+826,Beauty and personal care,53,131.0
+827,General merchandise/chains/retail,53,472.0
+828,Security/housekeeping/other,53,98.0
+829,Graduates,53,442.0
+830,Other,53,797.0
+831,Fashion/textile/furs,53,100.0
+832,Banking,53,57.0
+833,Computer software,54,48.0
+834,Sales management,54,2506.0
+835,market/marketing,54,1933.0
+836,Sales,54,5052.0
+837,Computer hardware,54,123.0
+838,Internet development and application,54,64.0
+839,IT-Management,54,120.0
+840,"IT-QM, technical support and more",54,39.0
+841,Communications technology,54,84.0
+842,Electronics/appliances/semiconductor/instrumentation,54,496.0
+843,Finance/auditing/tax,54,277.0
+844,Engineering/machinery/energy,54,225.0
+845,HR,54,281.0
+846,Senior management,54,111.0
+847,Logistics/warehousing,54,365.0
+848,Art/graphics/Animation design,54,167.0
+849,Science & Technology,54,128.0
+850,Legal profession/law,54,133.0
+851,Education,54,171.0
+852,Hospital/medical/care,54,186.0
+853,Counsel/consulting,54,363.0
+854,Transportation service,54,35.0
+855,Translation,54,140.0
+856,Construction/infrastructure/gardening,54,447.0
+857,Office administration/logistics,54,612.0
+858,Customer service and technical support,54,922.0
+859,Securities/finance/investment,54,336.0
+860,Insurance,54,223.0
+861,Production/operation,54,228.0
+862,QMS/safety/environmental protection,54,102.0
+863,Technical work,54,1544.0
+864,Procurement,54,78.0
+865,Trade,54,78.0
+866,Biology/chemicals/pharmaceuticals/medical equipment,54,25.0
+867,Advertising,54,116.0
+868,PRs and news media,54,129.0
+869,"Movies, TV and recreation",54,108.0
+870,Literature/screenwriting/writing,54,110.0
+871,Real property,54,948.0
+872,Property management,54,6.0
+873,Restaurants & recreation,54,860.0
+874,Hotels/tourism,54,36.0
+875,Beauty and personal care,54,127.0
+876,General merchandise/chains/retail,54,468.0
+877,Security/housekeeping/other,54,94.0
+878,Graduates,54,437.0
+879,Other,54,793.0
+880,Fashion/textile/furs,54,104.0
+881,Banking,54,61.0
+882,Computer software,55,43.0
+883,Sales management,55,2502.0
+884,market/marketing,55,1929.0
+885,Sales,55,5047.0
+886,Computer hardware,55,127.0
+887,Internet development and application,55,60.0
+888,IT-Management,55,125.0
+889,"IT-QM, technical support and more",55,44.0
+890,Communications technology,55,88.0
+891,Electronics/appliances/semiconductor/instrumentation,55,492.0
+892,Finance/auditing/tax,55,273.0
+893,Engineering/machinery/energy,55,220.0
+894,HR,55,277.0
+895,Senior management,55,115.0
+896,Logistics/warehousing,55,361.0
+897,Art/graphics/Animation design,55,163.0
+898,Science & Technology,55,132.0
+899,Legal profession/law,55,138.0
+900,Education,55,167.0
+901,Hospital/medical/care,55,181.0
+902,Counsel/consulting,55,359.0
+903,Transportation service,55,31.0
+904,Translation,55,144.0
+905,Construction/infrastructure/gardening,55,443.0
+906,Office administration/logistics,55,607.0
+907,Customer service and technical support,55,918.0
+908,Securities/finance/investment,55,332.0
+909,Insurance,55,219.0
+910,Production/operation,55,224.0
+911,QMS/safety/environmental protection,55,97.0
+912,Technical work,55,1540.0
+913,Procurement,55,82.0
+914,Trade,55,82.0
+915,Biology/chemicals/pharmaceuticals/medical equipment,55,29.0
+916,Advertising,55,121.0
+917,PRs and news media,55,133.0
+918,"Movies, TV and recreation",55,113.0
+919,Literature/screenwriting/writing,55,114.0
+920,Real property,55,944.0
+921,Property management,55,2.0
+922,Restaurants & recreation,55,856.0
+923,Hotels/tourism,55,40.0
+924,Beauty and personal care,55,123.0
+925,General merchandise/chains/retail,55,463.0
+926,Security/housekeeping/other,55,89.0
+927,Graduates,55,433.0
+928,Other,55,789.0
+929,Fashion/textile/furs,55,108.0
+930,Banking,55,65.0
+931,Computer software,56,39.0
+932,Sales management,56,2498.0
+933,market/marketing,56,1925.0
+934,Sales,56,5043.0
+935,Computer hardware,56,131.0
+936,Internet development and application,56,56.0
+937,IT-Management,56,129.0
+938,"IT-QM, technical support and more",56,48.0
+939,Communications technology,56,92.0
+940,Electronics/appliances/semiconductor/instrumentation,56,488.0
+941,Finance/auditing/tax,56,269.0
+942,Engineering/machinery/energy,56,216.0
+943,HR,56,273.0
+944,Senior management,56,119.0
+945,Logistics/warehousing,56,357.0
+946,Art/graphics/Animation design,56,159.0
+947,Science & Technology,56,137.0
+948,Legal profession/law,56,142.0
+949,Education,56,162.0
+950,Hospital/medical/care,56,177.0
+951,Counsel/consulting,56,355.0
+952,Transportation service,56,26.0
+953,Translation,56,148.0
+954,Construction/infrastructure/gardening,56,438.0
+955,Office administration/logistics,56,603.0
+956,Customer service and technical support,56,913.0
+957,Securities/finance/investment,56,328.0
+958,Insurance,56,215.0
+959,Production/operation,56,220.0
+960,QMS/safety/environmental protection,56,93.0
+961,Technical work,56,1536.0
+962,Procurement,56,87.0
+963,Trade,56,86.0
+964,Biology/chemicals/pharmaceuticals/medical equipment,56,33.0
+965,Advertising,56,125.0
+966,PRs and news media,56,138.0
+967,"Movies, TV and recreation",56,117.0
+968,Literature/screenwriting/writing,56,118.0
+969,Real property,56,939.0
+970,Property management,56,2.0
+971,Restaurants & recreation,56,852.0
+972,Hotels/tourism,56,44.0
+973,Beauty and personal care,56,119.0
+974,General merchandise/chains/retail,56,459.0
+975,Security/housekeeping/other,56,85.0
+976,Graduates,56,429.0
+977,Other,56,784.0
+978,Fashion/textile/furs,56,112.0
+979,Banking,56,70.0
+980,Computer software,57,35.0
+981,Sales management,57,2494.0
+982,market/marketing,57,1921.0
+983,Sales,57,5039.0
+984,Computer hardware,57,135.0
+985,Internet development and application,57,52.0
+986,IT-Management,57,133.0
+987,"IT-QM, technical support and more",57,52.0
+988,Communications technology,57,96.0
+989,Electronics/appliances/semiconductor/instrumentation,57,483.0
+990,Finance/auditing/tax,57,265.0
+991,Engineering/machinery/energy,57,212.0
+992,HR,57,268.0
+993,Senior management,57,124.0
+994,Logistics/warehousing,57,352.0
+995,Art/graphics/Animation design,57,155.0
+996,Science & Technology,57,141.0
+997,Legal profession/law,57,146.0
+998,Education,57,158.0
+999,Hospital/medical/care,57,173.0
+1000,Counsel/consulting,57,350.0
+1001,Transportation service,57,22.0
+1002,Translation,57,153.0
+1003,Construction/infrastructure/gardening,57,434.0
+1004,Office administration/logistics,57,599.0
+1005,Customer service and technical support,57,909.0
+1006,Securities/finance/investment,57,324.0
+1007,Insurance,57,210.0
+1008,Production/operation,57,215.0
+1009,QMS/safety/environmental protection,57,89.0
+1010,Technical work,57,1532.0
+1011,Procurement,57,91.0
+1012,Trade,57,90.0
+1013,Biology/chemicals/pharmaceuticals/medical equipment,57,38.0
+1014,Advertising,57,129.0
+1015,PRs and news media,57,142.0
+1016,"Movies, TV and recreation",57,121.0
+1017,Literature/screenwriting/writing,57,122.0
+1018,Real property,57,935.0
+1019,Property management,57,6.0
+1020,Restaurants & recreation,57,847.0
+1021,Hotels/tourism,57,49.0
+1022,Beauty and personal care,57,114.0
+1023,General merchandise/chains/retail,57,455.0
+1024,Security/housekeeping/other,57,81.0
+1025,Graduates,57,425.0
+1026,Other,57,780.0
+1027,Fashion/textile/furs,57,117.0
+1028,Banking,57,74.0
+1029,Computer software,58,31.0
+1030,Sales management,58,2489.0
+1031,market/marketing,58,1916.0
+1032,Sales,58,5035.0
+1033,Computer hardware,58,139.0
+1034,Internet development and application,58,47.0
+1035,IT-Management,58,137.0
+1036,"IT-QM, technical support and more",58,56.0
+1037,Communications technology,58,100.0
+1038,Electronics/appliances/semiconductor/instrumentation,58,479.0
+1039,Finance/auditing/tax,58,261.0
+1040,Engineering/machinery/energy,58,208.0
+1041,HR,58,264.0
+1042,Senior management,58,128.0
+1043,Logistics/warehousing,58,348.0
+1044,Art/graphics/Animation design,58,151.0
+1045,Science & Technology,58,145.0
+1046,Legal profession/law,58,150.0
+1047,Education,58,154.0
+1048,Hospital/medical/care,58,169.0
+1049,Counsel/consulting,58,346.0
+1050,Transportation service,58,18.0
+1051,Translation,58,157.0
+1052,Construction/infrastructure/gardening,58,430.0
+1053,Office administration/logistics,58,595.0
+1054,Customer service and technical support,58,905.0
+1055,Securities/finance/investment,58,319.0
+1056,Insurance,58,206.0
+1057,Production/operation,58,211.0
+1058,QMS/safety/environmental protection,58,85.0
+1059,Technical work,58,1528.0
+1060,Procurement,58,95.0
+1061,Trade,58,95.0
+1062,Biology/chemicals/pharmaceuticals/medical equipment,58,42.0
+1063,Advertising,58,133.0
+1064,PRs and news media,58,146.0
+1065,"Movies, TV and recreation",58,125.0
+1066,Literature/screenwriting/writing,58,126.0
+1067,Real property,58,931.0
+1068,Property management,58,11.0
+1069,Restaurants & recreation,58,843.0
+1070,Hotels/tourism,58,53.0
+1071,Beauty and personal care,58,110.0
+1072,General merchandise/chains/retail,58,451.0
+1073,Security/housekeeping/other,58,77.0
+1074,Graduates,58,420.0
+1075,Other,58,776.0
+1076,Fashion/textile/furs,58,121.0
+1077,Banking,58,78.0
+1078,Computer software,59,26.0
+1079,Sales management,59,2485.0
+1080,market/marketing,59,1912.0
+1081,Sales,59,5030.0
+1082,Computer hardware,59,144.0
+1083,Internet development and application,59,43.0
+1084,IT-Management,59,142.0
+1085,"IT-QM, technical support and more",59,60.0
+1086,Communications technology,59,105.0
+1087,Electronics/appliances/semiconductor/instrumentation,59,475.0
+1088,Finance/auditing/tax,59,256.0
+1089,Engineering/machinery/energy,59,204.0
+1090,HR,59,260.0
+1091,Senior management,59,132.0
+1092,Logistics/warehousing,59,344.0
+1093,Art/graphics/Animation design,59,146.0
+1094,Science & Technology,59,149.0
+1095,Legal profession/law,59,155.0
+1096,Education,59,150.0
+1097,Hospital/medical/care,59,165.0
+1098,Counsel/consulting,59,342.0
+1099,Transportation service,59,14.0
+1100,Translation,59,161.0
+1101,Construction/infrastructure/gardening,59,426.0
+1102,Office administration/logistics,59,591.0
+1103,Customer service and technical support,59,901.0
+1104,Securities/finance/investment,59,315.0
+1105,Insurance,59,202.0
+1106,Production/operation,59,207.0
+1107,QMS/safety/environmental protection,59,80.0
+1108,Technical work,59,1523.0
+1109,Procurement,59,99.0
+1110,Trade,59,99.0
+1111,Biology/chemicals/pharmaceuticals/medical equipment,59,46.0
+1112,Advertising,59,137.0
+1113,PRs and news media,59,150.0
+1114,"Movies, TV and recreation",59,130.0
+1115,Literature/screenwriting/writing,59,131.0
+1116,Real property,59,927.0
+1117,Property management,59,15.0
+1118,Restaurants & recreation,59,839.0
+1119,Hotels/tourism,59,57.0
+1120,Beauty and personal care,59,106.0
+1121,General merchandise/chains/retail,59,446.0
+1122,Security/housekeeping/other,59,72.0
+1123,Graduates,59,416.0
+1124,Other,59,772.0
+1125,Fashion/textile/furs,59,125.0
+1126,Banking,59,82.0
+1127,Computer software,60,22.0
+1128,Sales management,60,2481.0
+1129,market/marketing,60,1908.0
+1130,Sales,60,5026.0
+1131,Computer hardware,60,148.0
+1132,Internet development and application,60,39.0
+1133,IT-Management,60,146.0
+1134,"IT-QM, technical support and more",60,65.0
+1135,Communications technology,60,109.0
+1136,Electronics/appliances/semiconductor/instrumentation,60,471.0
+1137,Finance/auditing/tax,60,252.0
+1138,Engineering/machinery/energy,60,199.0
+1139,HR,60,256.0
+1140,Senior management,60,136.0
+1141,Logistics/warehousing,60,340.0
+1142,Art/graphics/Animation design,60,142.0
+1143,Science & Technology,60,154.0
+1144,Legal profession/law,60,159.0
+1145,Education,60,145.0
+1146,Hospital/medical/care,60,160.0
+1147,Counsel/consulting,60,338.0
+1148,Transportation service,60,10.0
+1149,Translation,60,165.0
+1150,Construction/infrastructure/gardening,60,421.0
+1151,Office administration/logistics,60,586.0
+1152,Customer service and technical support,60,896.0
+1153,Securities/finance/investment,60,311.0
+1154,Insurance,60,198.0
+1155,Production/operation,60,203.0
+1156,QMS/safety/environmental protection,60,76.0
+1157,Technical work,60,1519.0
+1158,Procurement,60,104.0
+1159,Trade,60,103.0
+1160,Biology/chemicals/pharmaceuticals/medical equipment,60,50.0
+1161,Advertising,60,142.0
+1162,PRs and news media,60,154.0
+1163,"Movies, TV and recreation",60,134.0
+1164,Literature/screenwriting/writing,60,135.0
+1165,Real property,60,922.0
+1166,Property management,60,19.0
+1167,Restaurants & recreation,60,835.0
+1168,Hotels/tourism,60,61.0
+1169,Beauty and personal care,60,102.0
+1170,General merchandise/chains/retail,60,442.0
+1171,Security/housekeeping/other,60,68.0
+1172,Graduates,60,412.0
+1173,Other,60,767.0
+1174,Fashion/textile/furs,60,129.0
+1175,Banking,60,86.0
+1176,Computer software,61,18.0
+1177,Sales management,61,2477.0
+1178,market/marketing,61,1904.0
+1179,Sales,61,5022.0
+1180,Computer hardware,61,152.0
+1181,Internet development and application,61,35.0
+1182,IT-Management,61,150.0
+1183,"IT-QM, technical support and more",61,69.0
+1184,Communications technology,61,113.0
+1185,Electronics/appliances/semiconductor/instrumentation,61,466.0
+1186,Finance/auditing/tax,61,248.0
+1187,Engineering/machinery/energy,61,195.0
+1188,HR,61,251.0
+1189,Senior management,61,140.0
+1190,Logistics/warehousing,61,336.0
+1191,Art/graphics/Animation design,61,138.0
+1192,Science & Technology,61,158.0
+1193,Legal profession/law,61,163.0
+1194,Education,61,141.0
+1195,Hospital/medical/care,61,156.0
+1196,Counsel/consulting,61,333.0
+1197,Transportation service,61,5.0
+1198,Translation,61,170.0
+1199,Construction/infrastructure/gardening,61,417.0
+1200,Office administration/logistics,61,582.0
+1201,Customer service and technical support,61,892.0
+1202,Securities/finance/investment,61,307.0
+1203,Insurance,61,194.0
+1204,Production/operation,61,199.0
+1205,QMS/safety/environmental protection,61,72.0
+1206,Technical work,61,1515.0
+1207,Procurement,61,108.0
+1208,Trade,61,107.0
+1209,Biology/chemicals/pharmaceuticals/medical equipment,61,54.0
+1210,Advertising,61,146.0
+1211,PRs and news media,61,159.0
+1212,"Movies, TV and recreation",61,138.0
+1213,Literature/screenwriting/writing,61,139.0
+1214,Real property,61,918.0
+1215,Property management,61,23.0
+1216,Restaurants & recreation,61,830.0
+1217,Hotels/tourism,61,65.0
+1218,Beauty and personal care,61,97.0
+1219,General merchandise/chains/retail,61,438.0
+1220,Security/housekeeping/other,61,64.0
+1221,Graduates,61,408.0
+1222,Other,61,763.0
+1223,Fashion/textile/furs,61,134.0
+1224,Banking,61,91.0
+1225,Computer software,62,14.0
+1226,Sales management,62,2473.0
+1227,market/marketing,62,1899.0
+1228,Sales,62,5018.0
+1229,Computer hardware,62,156.0
+1230,Internet development and application,62,30.0
+1231,IT-Management,62,154.0
+1232,"IT-QM, technical support and more",62,73.0
+1233,Communications technology,62,117.0
+1234,Electronics/appliances/semiconductor/instrumentation,62,462.0
+1235,Finance/auditing/tax,62,244.0
+1236,Engineering/machinery/energy,62,191.0
+1237,HR,62,247.0
+1238,Senior management,62,145.0
+1239,Logistics/warehousing,62,331.0
+1240,Art/graphics/Animation design,62,134.0
+1241,Science & Technology,62,162.0
+1242,Legal profession/law,62,167.0
+1243,Education,62,137.0
+1244,Hospital/medical/care,62,152.0
+1245,Counsel/consulting,62,329.0
+1246,Transportation service,62,1.0
+1247,Translation,62,174.0
+1248,Construction/infrastructure/gardening,62,413.0
+1249,Office administration/logistics,62,578.0
+1250,Customer service and technical support,62,888.0
+1251,Securities/finance/investment,62,303.0
+1252,Insurance,62,189.0
+1253,Production/operation,62,194.0
+1254,QMS/safety/environmental protection,62,68.0
+1255,Technical work,62,1511.0
+1256,Procurement,62,112.0
+1257,Trade,62,112.0
+1258,Biology/chemicals/pharmaceuticals/medical equipment,62,59.0
+1259,Advertising,62,150.0
+1260,PRs and news media,62,163.0
+1261,"Movies, TV and recreation",62,142.0
+1262,Literature/screenwriting/writing,62,143.0
+1263,Real property,62,914.0
+1264,Property management,62,28.0
+1265,Restaurants & recreation,62,826.0
+1266,Hotels/tourism,62,70.0
+1267,Beauty and personal care,62,93.0
+1268,General merchandise/chains/retail,62,434.0
+1269,Security/housekeeping/other,62,60.0
+1270,Graduates,62,403.0
+1271,Other,62,759.0
+1272,Fashion/textile/furs,62,138.0
+1273,Banking,62,95.0
+1274,Computer software,63,9.0
+1275,Sales management,63,2468.0
+1276,market/marketing,63,1895.0
+1277,Sales,63,5013.0
+1278,Computer hardware,63,161.0
+1279,Internet development and application,63,26.0
+1280,IT-Management,63,159.0
+1281,"IT-QM, technical support and more",63,77.0
+1282,Communications technology,63,122.0
+1283,Electronics/appliances/semiconductor/instrumentation,63,458.0
+1284,Finance/auditing/tax,63,239.0
+1285,Engineering/machinery/energy,63,187.0
+1286,HR,63,243.0
+1287,Senior management,63,149.0
+1288,Logistics/warehousing,63,327.0
+1289,Art/graphics/Animation design,63,129.0
+1290,Science & Technology,63,166.0
+1291,Legal profession/law,63,172.0
+1292,Education,63,133.0
+1293,Hospital/medical/care,63,148.0
+1294,Counsel/consulting,63,325.0
+1295,Transportation service,63,3.0
+1296,Translation,63,178.0
+1297,Construction/infrastructure/gardening,63,409.0
+1298,Office administration/logistics,63,574.0
+1299,Customer service and technical support,63,884.0
+1300,Securities/finance/investment,63,298.0
+1301,Insurance,63,185.0
+1302,Production/operation,63,190.0
+1303,QMS/safety/environmental protection,63,63.0
+1304,Technical work,63,1506.0
+1305,Procurement,63,116.0
+1306,Trade,63,116.0
+1307,Biology/chemicals/pharmaceuticals/medical equipment,63,63.0
+1308,Advertising,63,154.0
+1309,PRs and news media,63,167.0
+1310,"Movies, TV and recreation",63,146.0
+1311,Literature/screenwriting/writing,63,148.0
+1312,Real property,63,910.0
+1313,Property management,63,32.0
+1314,Restaurants & recreation,63,822.0
+1315,Hotels/tourism,63,74.0
+1316,Beauty and personal care,63,89.0
+1317,General merchandise/chains/retail,63,430.0
+1318,Security/housekeeping/other,63,56.0
+1319,Graduates,63,399.0
+1320,Other,63,755.0
+1321,Fashion/textile/furs,63,142.0
+1322,Banking,63,99.0
+1323,Computer software,64,5.0
+1324,Sales management,64,2464.0
+1325,market/marketing,64,1891.0
+1326,Sales,64,5009.0
+1327,Computer hardware,64,165.0
+1328,Internet development and application,64,22.0
+1329,IT-Management,64,163.0
+1330,"IT-QM, technical support and more",64,82.0
+1331,Communications technology,64,126.0
+1332,Electronics/appliances/semiconductor/instrumentation,64,454.0
+1333,Finance/auditing/tax,64,235.0
+1334,Engineering/machinery/energy,64,182.0
+1335,HR,64,239.0
+1336,Senior management,64,153.0
+1337,Logistics/warehousing,64,323.0
+1338,Art/graphics/Animation design,64,125.0
+1339,Science & Technology,64,171.0
+1340,Legal profession/law,64,176.0
+1341,Education,64,129.0
+1342,Hospital/medical/care,64,143.0
+1343,Counsel/consulting,64,321.0
+1344,Transportation service,64,7.0
+1345,Translation,64,182.0
+1346,Construction/infrastructure/gardening,64,404.0
+1347,Office administration/logistics,64,569.0
+1348,Customer service and technical support,64,879.0
+1349,Securities/finance/investment,64,294.0
+1350,Insurance,64,181.0
+1351,Production/operation,64,186.0
+1352,QMS/safety/environmental protection,64,59.0
+1353,Technical work,64,1502.0
+1354,Procurement,64,120.0
+1355,Trade,64,120.0
+1356,Biology/chemicals/pharmaceuticals/medical equipment,64,67.0
+1357,Advertising,64,159.0
+1358,PRs and news media,64,171.0
+1359,"Movies, TV and recreation",64,151.0
+1360,Literature/screenwriting/writing,64,152.0
+1361,Real property,64,906.0
+1362,Property management,64,36.0
+1363,Restaurants & recreation,64,818.0
+1364,Hotels/tourism,64,78.0
+1365,Beauty and personal care,64,85.0
+1366,General merchandise/chains/retail,64,425.0
+1367,Security/housekeeping/other,64,51.0
+1368,Graduates,64,395.0
+1369,Other,64,750.0
+1370,Fashion/textile/furs,64,146.0
+1371,Banking,64,103.0
+1372,Computer software,65,1.0
+1373,Sales management,65,2460.0
+1374,market/marketing,65,1887.0
+1375,Sales,65,5005.0
+1376,Computer hardware,65,169.0
+1377,Internet development and application,65,18.0
+1378,IT-Management,65,167.0
+1379,"IT-QM, technical support and more",65,86.0
+1380,Communications technology,65,130.0
+1381,Electronics/appliances/semiconductor/instrumentation,65,449.0
+1382,Finance/auditing/tax,65,231.0
+1383,Engineering/machinery/energy,65,178.0
+1384,HR,65,235.0
+1385,Senior management,65,157.0
+1386,Logistics/warehousing,65,319.0
+1387,Art/graphics/Animation design,65,121.0
+1388,Science & Technology,65,175.0
+1389,Legal profession/law,65,180.0
+1390,Education,65,124.0
+1391,Hospital/medical/care,65,139.0
+1392,Counsel/consulting,65,316.0
+1393,Transportation service,65,12.0
+1394,Translation,65,187.0
+1395,Construction/infrastructure/gardening,65,400.0
+1396,Office administration/logistics,65,565.0
+1397,Customer service and technical support,65,875.0
+1398,Securities/finance/investment,65,290.0
+1399,Insurance,65,177.0
+1400,Production/operation,65,182.0
+1401,QMS/safety/environmental protection,65,55.0
+1402,Technical work,65,1498.0
+1403,Procurement,65,125.0
+1404,Trade,65,124.0
+1405,Biology/chemicals/pharmaceuticals/medical equipment,65,71.0
+1406,Advertising,65,163.0
+1407,PRs and news media,65,176.0
+1408,"Movies, TV and recreation",65,155.0
+1409,Literature/screenwriting/writing,65,156.0
+1410,Real property,65,901.0
+1411,Property management,65,40.0
+1412,Restaurants & recreation,65,813.0
+1413,Hotels/tourism,65,82.0
+1414,Beauty and personal care,65,81.0
+1415,General merchandise/chains/retail,65,421.0
+1416,Security/housekeeping/other,65,47.0
+1417,Graduates,65,391.0
+1418,Other,65,746.0
+1419,Fashion/textile/furs,65,150.0
+1420,Banking,65,108.0
+1421,Computer software,66,3.0
+1422,Sales management,66,2456.0
+1423,market/marketing,66,1882.0
+1424,Sales,66,5001.0
+1425,Computer hardware,66,173.0
+1426,Internet development and application,66,14.0
+1427,IT-Management,66,171.0
+1428,"IT-QM, technical support and more",66,90.0
+1429,Communications technology,66,134.0
+1430,Electronics/appliances/semiconductor/instrumentation,66,445.0
+1431,Finance/auditing/tax,66,227.0
+1432,Engineering/machinery/energy,66,174.0
+1433,HR,66,230.0
+1434,Senior management,66,162.0
+1435,Logistics/warehousing,66,314.0
+1436,Art/graphics/Animation design,66,117.0
+1437,Science & Technology,66,179.0
+1438,Legal profession/law,66,184.0
+1439,Education,66,120.0
+1440,Hospital/medical/care,66,135.0
+1441,Counsel/consulting,66,312.0
+1442,Transportation service,66,16.0
+1443,Translation,66,191.0
+1444,Construction/infrastructure/gardening,66,396.0
+1445,Office administration/logistics,66,561.0
+1446,Customer service and technical support,66,871.0
+1447,Securities/finance/investment,66,286.0
+1448,Insurance,66,172.0
+1449,Production/operation,66,177.0
+1450,QMS/safety/environmental protection,66,51.0
+1451,Technical work,66,1494.0
+1452,Procurement,66,129.0
+1453,Trade,66,128.0
+1454,Biology/chemicals/pharmaceuticals/medical equipment,66,76.0
+1455,Advertising,66,167.0
+1456,PRs and news media,66,180.0
+1457,"Movies, TV and recreation",66,159.0
+1458,Literature/screenwriting/writing,66,160.0
+1459,Real property,66,897.0
+1460,Property management,66,45.0
+1461,Restaurants & recreation,66,809.0
+1462,Hotels/tourism,66,87.0
+1463,Beauty and personal care,66,76.0
+1464,General merchandise/chains/retail,66,417.0
+1465,Security/housekeeping/other,66,43.0
+1466,Graduates,66,386.0
+1467,Other,66,742.0
+1468,Fashion/textile/furs,66,155.0
+1469,Banking,66,112.0
+1470,Computer software,67,8.0
+1471,Sales management,67,2451.0
+1472,market/marketing,67,1878.0
+1473,Sales,67,4996.0
+1474,Computer hardware,67,178.0
+1475,Internet development and application,67,9.0
+1476,IT-Management,67,175.0
+1477,"IT-QM, technical support and more",67,94.0
+1478,Communications technology,67,139.0
+1479,Electronics/appliances/semiconductor/instrumentation,67,441.0
+1480,Finance/auditing/tax,67,222.0
+1481,Engineering/machinery/energy,67,170.0
+1482,HR,67,226.0
+1483,Senior management,67,166.0
+1484,Logistics/warehousing,67,310.0
+1485,Art/graphics/Animation design,67,112.0
+1486,Science & Technology,67,183.0
+1487,Legal profession/law,67,188.0
+1488,Education,67,116.0
+1489,Hospital/medical/care,67,131.0
+1490,Counsel/consulting,67,308.0
+1491,Transportation service,67,20.0
+1492,Translation,67,195.0
+1493,Construction/infrastructure/gardening,67,392.0
+1494,Office administration/logistics,67,557.0
+1495,Customer service and technical support,67,867.0
+1496,Securities/finance/investment,67,281.0
+1497,Insurance,67,168.0
+1498,Production/operation,67,173.0
+1499,QMS/safety/environmental protection,67,47.0
+1500,Technical work,67,1489.0
+1501,Procurement,67,133.0
+1502,Trade,67,133.0
+1503,Biology/chemicals/pharmaceuticals/medical equipment,67,80.0
+1504,Advertising,67,171.0
+1505,PRs and news media,67,184.0
+1506,"Movies, TV and recreation",67,163.0
+1507,Literature/screenwriting/writing,67,165.0
+1508,Real property,67,893.0
+1509,Property management,67,49.0
+1510,Restaurants & recreation,67,805.0
+1511,Hotels/tourism,67,91.0
+1512,Beauty and personal care,67,72.0
+1513,General merchandise/chains/retail,67,413.0
+1514,Security/housekeeping/other,67,39.0
+1515,Graduates,67,382.0
+1516,Other,67,738.0
+1517,Fashion/textile/furs,67,159.0
+1518,Banking,67,116.0
+1519,Computer software,68,12.0
+1520,Sales management,68,2447.0
+1521,market/marketing,68,1874.0
+1522,Sales,68,4992.0
+1523,Computer hardware,68,182.0
+1524,Internet development and application,68,5.0
+1525,IT-Management,68,180.0
+1526,"IT-QM, technical support and more",68,99.0
+1527,Communications technology,68,143.0
+1528,Electronics/appliances/semiconductor/instrumentation,68,437.0
+1529,Finance/auditing/tax,68,218.0
+1530,Engineering/machinery/energy,68,165.0
+1531,HR,68,222.0
+1532,Senior management,68,170.0
+1533,Logistics/warehousing,68,306.0
+1534,Art/graphics/Animation design,68,108.0
+1535,Science & Technology,68,187.0
+1536,Legal profession/law,68,193.0
+1537,Education,68,112.0
+1538,Hospital/medical/care,68,126.0
+1539,Counsel/consulting,68,304.0
+1540,Transportation service,68,24.0
+1541,Translation,68,199.0
+1542,Construction/infrastructure/gardening,68,388.0
+1543,Office administration/logistics,68,552.0
+1544,Customer service and technical support,68,862.0
+1545,Securities/finance/investment,68,277.0
+1546,Insurance,68,164.0
+1547,Production/operation,68,169.0
+1548,QMS/safety/environmental protection,68,42.0
+1549,Technical work,68,1485.0
+1550,Procurement,68,137.0
+1551,Trade,68,137.0
+1552,Biology/chemicals/pharmaceuticals/medical equipment,68,84.0
+1553,Advertising,68,176.0
+1554,PRs and news media,68,188.0
+1555,"Movies, TV and recreation",68,168.0
+1556,Literature/screenwriting/writing,68,169.0
+1557,Real property,68,889.0
+1558,Property management,68,53.0
+1559,Restaurants & recreation,68,801.0
+1560,Hotels/tourism,68,95.0
+1561,Beauty and personal care,68,68.0
+1562,General merchandise/chains/retail,68,408.0
+1563,Security/housekeeping/other,68,34.0
+1564,Graduates,68,378.0
+1565,Other,68,734.0
+1566,Fashion/textile/furs,68,163.0
+1567,Banking,68,120.0
+1568,Computer software,69,16.0
+1569,Sales management,69,2443.0
+1570,market/marketing,69,1870.0
+1571,Sales,69,4988.0
+1572,Computer hardware,69,186.0
+1573,Internet development and application,69,1.0
+1574,IT-Management,69,184.0
+1575,"IT-QM, technical support and more",69,103.0
+1576,Communications technology,69,147.0
+1577,Electronics/appliances/semiconductor/instrumentation,69,433.0
+1578,Finance/auditing/tax,69,214.0
+1579,Engineering/machinery/energy,69,161.0
+1580,HR,69,218.0
+1581,Senior management,69,174.0
+1582,Logistics/warehousing,69,302.0
+1583,Art/graphics/Animation design,69,104.0
+1584,Science & Technology,69,192.0
+1585,Legal profession/law,69,197.0
+1586,Education,69,107.0
+1587,Hospital/medical/care,69,122.0
+1588,Counsel/consulting,69,299.0
+1589,Transportation service,69,29.0
+1590,Translation,69,203.0
+1591,Construction/infrastructure/gardening,69,383.0
+1592,Office administration/logistics,69,548.0
+1593,Customer service and technical support,69,858.0
+1594,Securities/finance/investment,69,273.0
+1595,Insurance,69,160.0
+1596,Production/operation,69,165.0
+1597,QMS/safety/environmental protection,69,38.0
+1598,Technical work,69,1481.0
+1599,Procurement,69,142.0
+1600,Trade,69,141.0
+1601,Biology/chemicals/pharmaceuticals/medical equipment,69,88.0
+1602,Advertising,69,180.0
+1603,PRs and news media,69,193.0
+1604,"Movies, TV and recreation",69,172.0
+1605,Literature/screenwriting/writing,69,173.0
+1606,Real property,69,884.0
+1607,Property management,69,57.0
+1608,Restaurants & recreation,69,797.0
+1609,Hotels/tourism,69,99.0
+1610,Beauty and personal care,69,64.0
+1611,General merchandise/chains/retail,69,404.0
+1612,Security/housekeeping/other,69,30.0
+1613,Graduates,69,374.0
+1614,Other,69,729.0
+1615,Fashion/textile/furs,69,167.0
+1616,Banking,69,125.0
+1617,Computer software,70,20.0
+1618,Sales management,70,2439.0
+1619,market/marketing,70,1866.0
+1620,Sales,70,4984.0
+1621,Computer hardware,70,190.0
+1622,Internet development and application,70,3.0
+1623,IT-Management,70,188.0
+1624,"IT-QM, technical support and more",70,107.0
+1625,Communications technology,70,151.0
+1626,Electronics/appliances/semiconductor/instrumentation,70,428.0
+1627,Finance/auditing/tax,70,210.0
+1628,Engineering/machinery/energy,70,157.0
+1629,HR,70,213.0
+1630,Senior management,70,179.0
+1631,Logistics/warehousing,70,297.0
+1632,Art/graphics/Animation design,70,100.0
+1633,Science & Technology,70,196.0
+1634,Legal profession/law,70,201.0
+1635,Education,70,103.0
+1636,Hospital/medical/care,70,118.0
+1637,Counsel/consulting,70,295.0
+1638,Transportation service,70,33.0
+1639,Translation,70,208.0
+1640,Construction/infrastructure/gardening,70,379.0
+1641,Office administration/logistics,70,544.0
+1642,Customer service and technical support,70,854.0
+1643,Securities/finance/investment,70,269.0
+1644,Insurance,70,155.0
+1645,Production/operation,70,160.0
+1646,QMS/safety/environmental protection,70,34.0
+1647,Technical work,70,1477.0
+1648,Procurement,70,146.0
+1649,Trade,70,145.0
+1650,Biology/chemicals/pharmaceuticals/medical equipment,70,93.0
+1651,Advertising,70,184.0
+1652,PRs and news media,70,197.0
+1653,"Movies, TV and recreation",70,176.0
+1654,Literature/screenwriting/writing,70,177.0
+1655,Real property,70,880.0
+1656,Property management,70,62.0
+1657,Restaurants & recreation,70,792.0
+1658,Hotels/tourism,70,104.0
+1659,Beauty and personal care,70,59.0
+1660,General merchandise/chains/retail,70,400.0
+1661,Security/housekeeping/other,70,26.0
+1662,Graduates,70,370.0
+1663,Other,70,725.0
+1664,Fashion/textile/furs,70,172.0
+1665,Banking,70,129.0
+1666,Computer software,71,24.0
+1667,Sales management,71,2434.0
+1668,market/marketing,71,1861.0
+1669,Sales,71,4980.0
+1670,Computer hardware,71,194.0
+1671,Internet development and application,71,8.0
+1672,IT-Management,71,192.0
+1673,"IT-QM, technical support and more",71,111.0
+1674,Communications technology,71,156.0
+1675,Electronics/appliances/semiconductor/instrumentation,71,424.0
+1676,Finance/auditing/tax,71,206.0
+1677,Engineering/machinery/energy,71,153.0
+1678,HR,71,209.0
+1679,Senior management,71,183.0
+1680,Logistics/warehousing,71,293.0
+1681,Art/graphics/Animation design,71,95.0
+1682,Science & Technology,71,200.0
+1683,Legal profession/law,71,205.0
+1684,Education,71,99.0
+1685,Hospital/medical/care,71,114.0
+1686,Counsel/consulting,71,291.0
+1687,Transportation service,71,37.0
+1688,Translation,71,212.0
+1689,Construction/infrastructure/gardening,71,375.0
+1690,Office administration/logistics,71,540.0
+1691,Customer service and technical support,71,850.0
+1692,Securities/finance/investment,71,264.0
+1693,Insurance,71,151.0
+1694,Production/operation,71,156.0
+1695,QMS/safety/environmental protection,71,30.0
+1696,Technical work,71,1473.0
+1697,Procurement,71,150.0
+1698,Trade,71,150.0
+1699,Biology/chemicals/pharmaceuticals/medical equipment,71,97.0
+1700,Advertising,71,188.0
+1701,PRs and news media,71,201.0
+1702,"Movies, TV and recreation",71,180.0
+1703,Literature/screenwriting/writing,71,182.0
+1704,Real property,71,876.0
+1705,Property management,71,66.0
+1706,Restaurants & recreation,71,788.0
+1707,Hotels/tourism,71,108.0
+1708,Beauty and personal care,71,55.0
+1709,General merchandise/chains/retail,71,396.0
+1710,Security/housekeeping/other,71,22.0
+1711,Graduates,71,365.0
+1712,Other,71,721.0
+1713,Fashion/textile/furs,71,176.0
+1714,Banking,71,133.0
+1715,Computer software,72,29.0
+1716,Sales management,72,2430.0
+1717,market/marketing,72,1857.0
+1718,Sales,72,4975.0
+1719,Computer hardware,72,199.0
+1720,Internet development and application,72,12.0
+1721,IT-Management,72,197.0
+1722,"IT-QM, technical support and more",72,115.0
+1723,Communications technology,72,160.0
+1724,Electronics/appliances/semiconductor/instrumentation,72,420.0
+1725,Finance/auditing/tax,72,201.0
+1726,Engineering/machinery/energy,72,148.0
+1727,HR,72,205.0
+1728,Senior management,72,187.0
+1729,Logistics/warehousing,72,289.0
+1730,Art/graphics/Animation design,72,91.0
+1731,Science & Technology,72,204.0
+1732,Legal profession/law,72,210.0
+1733,Education,72,95.0
+1734,Hospital/medical/care,72,110.0
+1735,Counsel/consulting,72,287.0
+1736,Transportation service,72,41.0
+1737,Translation,72,216.0
+1738,Construction/infrastructure/gardening,72,371.0
+1739,Office administration/logistics,72,535.0
+1740,Customer service and technical support,72,846.0
+1741,Securities/finance/investment,72,260.0
+1742,Insurance,72,147.0
+1743,Production/operation,72,152.0
+1744,QMS/safety/environmental protection,72,25.0
+1745,Technical work,72,1468.0
+1746,Procurement,72,154.0
+1747,Trade,72,154.0
+1748,Biology/chemicals/pharmaceuticals/medical equipment,72,101.0
+1749,Advertising,72,192.0
+1750,PRs and news media,72,205.0
+1751,"Movies, TV and recreation",72,185.0
+1752,Literature/screenwriting/writing,72,186.0
+1753,Real property,72,872.0
+1754,Property management,72,70.0
+1755,Restaurants & recreation,72,784.0
+1756,Hotels/tourism,72,112.0
+1757,Beauty and personal care,72,51.0
+1758,General merchandise/chains/retail,72,391.0
+1759,Security/housekeeping/other,72,17.0
+1760,Graduates,72,361.0
+1761,Other,72,717.0
+1762,Fashion/textile/furs,72,180.0
+1763,Banking,72,137.0

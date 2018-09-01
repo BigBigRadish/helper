@@ -1,0 +1,34 @@
+,s/n,Sector,Total demands,Junior middle school,Senior middle school,Technical secondary school,Junior college,Bachelor's degree,Master's degree,Doctor's degree,MBA,Unlimited
+0,1,,60,0,0,0,6,2,0,0,0,8
+1,2,Computer software ,15,0,0,0,0,3,2,0,0,0
+2,3,Sales management,78,0,0,0,11,2,0,0,0,0
+3,4,market/marketing,31,0,0,0,5,0,0,0,0,2
+4,5,Sales ,180,0,0,0,2,0,0,0,0,12
+5,6,Internet development and application,4,0,0,0,2,0,0,0,0,0
+6,7,"IT-QM, technical support and more",10,0,0,2,2,0,0,0,0,0
+7,8,Electronics/appliances/semiconductor/instrumentation,127,6,0,0,0,3,0,0,0,0
+8,9,Finance/auditing/tax,26,0,0,0,6,4,0,0,0,1
+9,10,Engineering/machinery/energy,131,3,3,2,7,5,0,0,0,2
+10,11,HR,2,0,0,0,0,0,0,0,0,2
+11,12,Senior management,4,0,0,0,0,2,0,0,0,2
+12,13,Logistics/warehousing,5,0,0,2,1,0,0,0,0,0
+13,14,Art/graphics/Animation design,6,0,0,0,0,0,0,0,0,2
+14,15,Science & Technology,4,0,0,0,0,0,2,0,0,0
+15,16,Legal profession/law,3,0,0,0,0,1,0,0,0,1
+16,17,Education,6,0,0,0,0,0,1,0,0,0
+17,18,Hospital/medical/care,10,0,0,0,0,0,0,0,0,2
+18,19,Counsel/consulting,1,0,0,0,0,0,0,0,0,1
+19,20,Transportation service,7,0,1,0,0,0,0,0,0,3
+20,21,Translation,2,0,0,0,0,2,0,0,0,0
+21,22,Construction/infrastructure/gardening,4,0,0,0,3,0,0,0,0,0
+22,23,Office administration/logistics,32,0,0,0,3,1,0,0,0,6
+23,24,Production/operation,4,0,0,0,2,0,0,0,0,0
+24,25,QMS/safety/environmental protection,2,0,0,0,2,0,0,0,0,0
+25,26,Technical work,110,1,0,3,4,0,0,0,0,7
+26,27,Property management,9,0,1,0,0,0,0,0,0,3
+27,28,Restaurants & recreation,134,0,0,0,1,0,0,0,0,17
+28,29,Hotels/tourism,4,0,0,0,2,0,0,0,0,0
+29,30,Beauty and personal care,40,0,2,0,0,0,0,0,0,0
+30,31,Security/housekeeping/other,16,0,0,0,0,0,0,0,0,6
+31,32,Graduates,15,0,0,0,2,0,0,0,0,0
+32,33,Other,63,0,3,0,8,1,0,0,0,4

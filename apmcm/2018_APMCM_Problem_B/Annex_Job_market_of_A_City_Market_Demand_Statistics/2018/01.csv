@@ -1,0 +1,39 @@
+,s/n,Sector,Total demands,Junior middle school,Senior middle school,Technical secondary school,Junior college,Bachelor's degree,Master's degree,Doctor's degree,MBA,Unlimited
+0,1,,207,0,4,0,9,0,0,0,0,19
+1,2,Computer software ,1,0,0,0,1,0,0,0,0,0
+2,3,Sales management,328,0,5,3,31,5,0,0,0,9
+3,4,market/marketing,306,0,0,2,24,0,0,0,0,17
+4,5,Sales ,767,0,6,0,22,2,0,0,0,36
+5,6,Internet development and application,6,0,0,0,2,0,0,0,0,0
+6,7,Electronics/appliances/semiconductor/instrumentation,43,0,0,0,1,7,0,0,0,4
+7,8,Finance/auditing/tax,56,0,0,0,26,3,0,0,0,2
+8,9,Engineering/machinery/energy,173,0,1,4,13,8,0,0,0,4
+9,10,HR,56,0,0,3,22,1,0,0,0,4
+10,11,Senior management,2,0,0,0,0,2,0,0,0,0
+11,12,Logistics/warehousing,57,0,4,3,1,0,0,0,0,13
+12,13,Art/graphics/Animation design,26,0,0,1,4,0,0,0,0,1
+13,14,Science & Technology,6,0,0,0,0,0,2,0,0,0
+14,15,Education,56,0,0,0,9,0,0,0,0,0
+15,16,Hospital/medical/care,62,0,1,0,1,0,0,0,0,2
+16,17,Transportation service,43,6,0,0,0,0,0,0,0,5
+17,18,Translation,9,0,0,0,0,3,0,0,0,0
+18,19,Construction/infrastructure/gardening,117,0,0,6,2,3,0,0,0,9
+19,20,Banking,30,0,2,0,0,0,0,0,0,0
+20,21,Office administration/logistics,91,0,4,1,22,2,0,0,0,4
+21,22,Customer service and technical support,126,0,2,1,14,0,0,0,0,6
+22,23,Securities/finance/investment,20,0,1,0,0,0,0,0,0,0
+23,24,Production/operation,56,3,0,0,1,5,0,0,0,3
+24,25,QMS/safety/environmental protection,43,0,4,2,0,2,0,0,0,2
+25,26,Technical work,473,5,5,3,0,0,0,0,0,42
+26,27,Procurement,3,0,0,1,1,0,0,0,0,0
+27,28,Trade,19,0,0,0,0,2,0,0,0,3
+28,29,Biology/chemicals/pharmaceuticals/medical equipment,64,0,1,0,3,1,0,0,0,1
+29,30,PRs and news media,8,0,0,0,2,0,0,0,0,0
+30,31,Real property,180,0,0,0,0,0,0,0,0,3
+31,32,Property management,39,0,5,0,3,0,0,0,0,4
+32,33,Restaurants & recreation,399,0,3,0,0,0,0,0,0,62
+33,34,Hotels/tourism,42,0,0,1,1,0,0,0,0,8
+34,35,General merchandise/chains/retail,289,4,13,1,8,0,0,0,0,9
+35,36,Security/housekeeping/other,73,1,0,0,0,0,0,0,0,3
+36,37,Graduates,59,0,0,0,6,0,0,0,0,2
+37,38,Other,168,6,1,4,5,0,0,0,0,11

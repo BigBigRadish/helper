@@ -1,0 +1,48 @@
+,s/n,Sector,Total demands,Junior middle school,Senior middle school,Technical secondary school,Junior college,Bachelor's degree,Master's degree,Doctor's degree,MBA,Unlimited
+0,1.0,Computer software ,35.0,0.0,0.0,2.0,3.0,2.0,0.0,0.0,0.0,4.0
+1,2.0,Sales management,277.0,0.0,3.0,2.0,24.0,2.0,0.0,0.0,0.0,12.0
+2,3.0,market/marketing,332.0,0.0,6.0,0.0,21.0,2.0,0.0,0.0,0.0,28.0
+3,4.0,Sales ,1015.0,0.0,17.0,4.0,46.0,1.0,0.0,0.0,0.0,48.0
+4,5.0,Computer hardware,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+5,6.0,Internet development and application,59.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,9.0
+6,7.0,"IT-QM, technical support and more",50.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+7,8.0,Electronics/appliances/semiconductor/instrumentation,19.0,0.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,0.0
+8,9.0,Finance/auditing/tax,54.0,0.0,0.0,0.0,20.0,6.0,0.0,0.0,0.0,8.0
+9,10.0,Engineering/machinery/energy,105.0,0.0,0.0,3.0,22.0,6.0,0.0,0.0,0.0,3.0
+10,11.0,HR,18.0,0.0,0.0,0.0,5.0,8.0,0.0,0.0,0.0,0.0
+11,12.0,Senior management,24.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0
+12,13.0,Logistics/warehousing,40.0,0.0,1.0,0.0,7.0,1.0,0.0,0.0,0.0,11.0
+13,14.0,Art/graphics/Animation design,30.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,6.0
+14,15.0,Legal profession/law,18.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+15,16.0,Hospital/medical/care,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+16,17.0,Counsel/consulting,95.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,10.0
+17,18.0,Transportation service,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+18,19.0,Translation,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+19,20.0,Construction/infrastructure/gardening,82.0,0.0,0.0,2.0,11.0,2.0,0.0,0.0,0.0,5.0
+20,21.0,Office administration/logistics,122.0,0.0,2.0,0.0,31.0,6.0,0.0,0.0,0.0,11.0
+21,22.0,Customer service and technical support,105.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,5.0
+22,23.0,Production/operation,151.0,0.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0
+23,24.0,QMS/safety/environmental protection,38.0,0.0,0.0,1.0,13.0,2.0,0.0,0.0,0.0,3.0
+24,25.0,Technical work,483.0,7.0,0.0,8.0,3.0,0.0,0.0,0.0,0.0,37.0
+25,26.0,Procurement,4.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0
+26,27.0,Trade,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+27,28.0,Biology/chemicals/pharmaceuticals/medical equipment,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
+28,29.0,Advertising,10.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+29,30.0,Real property,67.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+30,31.0,Property management,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+31,32.0,Restaurants & recreation,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+32,33.0,Hotels/tourism,63.0,3.0,0.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0
+33,34.0,Beauty and personal care,30.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,35.0,General merchandise/chains/retail,32.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0
+35,36.0,Security/housekeeping/other,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+36,37.0,Graduates,105.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0
+37,38.0,Other,256.0,0.0,3.0,5.0,14.0,1.0,0.0,0.0,0.0,30.0
+38,,,,,,,,,,,,
+39,,,,,,,,,,,,
+40,,,,,,,,,,,,
+41,,,,,,,,,,,,
+42,,,,,,,,,,,,
+43,,,,,,,,,,,,
+44,,,,,,,,,,,,
+45,,,,,,,,,,,,
+46,,,,,,,,,,,,

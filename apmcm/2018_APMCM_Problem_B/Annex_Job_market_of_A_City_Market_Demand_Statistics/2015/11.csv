@@ -1,0 +1,48 @@
+,s/n,Sector,Total demands,Junior middle school,Senior middle school,Technical secondary school,Junior college,Bachelor's degree,Master's degree,Doctor's degree,MBA,Unlimited
+0,1,Computer software ,211,0,0,0,22,6,0,0,0,17
+1,2,Sales management,2205,2,25,24,175,7,0,0,0,156
+2,3,market/marketing,2195,0,28,27,102,4,0,0,0,106
+3,4,Sales ,8730,10,107,213,256,11,0,0,0,279
+4,5,Computer hardware,90,0,0,1,5,0,0,0,0,6
+5,6,Internet development and application,258,0,0,8,35,1,0,0,0,9
+6,7,IT-Management,142,0,0,0,1,0,0,0,0,2
+7,8,"IT-QM, technical support and more",95,0,5,1,10,0,0,0,0,6
+8,9,Communications technology,79,0,0,2,3,1,0,0,0,4
+9,10,Electronics/appliances/semiconductor/instrumentation,156,0,7,0,12,8,3,0,0,4
+10,11,Finance/auditing/tax,195,4,16,11,60,0,0,0,0,22
+11,12,Engineering/machinery/energy,63,0,2,2,16,7,0,0,0,5
+12,13,HR,210,0,4,0,60,7,0,0,0,17
+13,14,Senior management,25,0,0,0,5,1,0,0,0,5
+14,15,Logistics/warehousing,301,10,7,8,11,0,0,0,0,48
+15,16,Art/graphics/Animation design,129,0,1,1,29,3,0,0,0,8
+16,17,Science & Technology,12,0,0,0,0,0,0,0,0,2
+17,18,Legal profession/law,8,0,0,0,0,0,0,0,0,2
+18,19,Education,106,0,0,0,18,3,0,0,0,6
+19,20,Hospital/medical/care,109,0,0,0,15,0,0,0,0,3
+20,21,Counsel/consulting,285,0,4,3,34,0,0,0,0,13
+21,22,Transportation service,96,10,0,1,2,0,0,0,0,12
+22,23,Translation,14,0,0,0,0,6,0,0,0,0
+23,24,Construction/infrastructure/gardening,375,0,0,0,25,4,0,0,0,24
+24,25,Office administration/logistics,851,1,6,17,127,5,0,0,0,90
+25,26,Customer service and technical support,826,0,9,26,28,0,0,0,0,37
+26,27,Securities/finance/investment,752,0,14,2,22,0,0,0,0,34
+27,28,Insurance,1125,8,0,0,26,7,0,0,0,0
+28,29,Production/operation,249,0,3,4,2,1,0,0,0,4
+29,30,QMS/safety/environmental protection,67,0,0,0,25,2,0,0,0,9
+30,31,Technical work,621,4,0,2,6,0,0,0,0,59
+31,32,Fashion/textile/furs,1,0,1,0,0,0,0,0,0,0
+32,33,Procurement,53,0,6,2,9,0,0,0,0,2
+33,34,Trade,33,0,0,0,6,3,0,0,0,2
+34,35,Biology/chemicals/pharmaceuticals/medical equipment,156,0,1,0,6,9,0,0,0,27
+35,36,Advertising,10,0,0,0,3,0,0,0,0,1
+36,37,"Movies, TV and recreation",13,0,0,0,5,0,0,0,0,0
+37,38,Literature/screenwriting/writing,14,0,0,1,7,0,0,0,0,1
+38,39,Real property,1218,20,2,3,10,0,0,0,0,51
+39,40,Property management,255,0,0,1,5,0,0,0,0,12
+40,41,Restaurants & recreation,1125,4,6,10,10,0,0,0,0,121
+41,42,Hotels/tourism,303,4,3,2,5,0,0,0,0,11
+42,43,Beauty and personal care,118,0,0,0,0,0,0,0,0,13
+43,44,General merchandise/chains/retail,23,0,0,0,1,0,0,0,0,3
+44,45,Security/housekeeping/other,51,3,0,0,2,0,0,0,0,5
+45,46,Graduates,1317,0,2,4,56,2,0,0,0,57
+46,47,Other,311,0,10,2,49,0,0,0,0,43
