@@ -71,13 +71,13 @@ print(slr.intercept_)
 # y_train_pred=np.round(slr.predict(x_train))
 # y_test_pred =np.round(slr.predict(x_test))#MSE train: 126230.541, test: 323333.521 R^2 train: 0.917, test: 0.928
 # print('MSE train: %.3f, test: %.3f' % (mean_squared_error(y_train, y_train_pred),mean_squared_error(y_test, y_test_pred)))
-# from sklearn.ensemble import RandomForestRegressor#随机森林回归
-# forest = RandomForestRegressor(n_estimators=1000, criterion='mse', random_state=1, n_jobs=-1)
-# forest.fit(x_train, y_train)#MSE train: 21123.455, test: 842033.039
-# y_train_pred = np.round(forest.predict(x_train))
-# scores=cross_val_score(forest,x_test,y_test,cv=5)#[ 0.83562915  0.785802    0.82791966  0.92894881  0.85761469]
-# print(scores)
-# y_test_pred = np.round(forest.predict(x_test))#MSE train: 21123.455, test: 842033.039 R^2 train: 0.986, test: 0.812
+from sklearn.ensemble import RandomForestRegressor#随机森林回归
+forest = RandomForestRegressor(n_estimators=1000, criterion='mse', random_state=1, n_jobs=-1)
+forest.fit(x_train, y_train)#MSE train: 21123.455, test: 842033.039
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+scores=cross_val_score(forest,x_test,y_test,cv=5)#[ 0.83562915  0.785802    0.82791966  0.92894881  0.85761469]
+print(scores)
+y_test_pred = np.round(forest.predict(x_test))#MSE train: 21123.455, test: 842033.039 R^2 train: 0.986, test: 0.812
 # print('MSE train: %.3f, test: %.3f' % (mean_squared_error(y_train, y_train_pred),mean_squared_error(y_test, y_test_pred)))
 # print('R^2 train: %.3f, test: %.3f' % (r2_score(y_train, y_train_pred),r2_score(y_test, y_test_pred)))#Output:#MSE train: 1.642, test: 11.052#R^2 train: 0.979, test: 0.878plt.scatter(y_train_pred, y_train_pred - y_train, c='black', marker='o', s=35, alpha=0.5, label='Training data')plt.scatter(y_test_pred, y_test_pred - y_test, c='lightgreen', marker='s', s=35, alpha=0.7, label='Test data')plt.xlabel('Predicted values')plt.ylabel('Residuals')plt.legend(loc='upper left')plt.hlines(y=0, xmin=-10, xmax=50, lw=2, color='red')plt.xlim([-10, 50])plt.tight_layout()# plt.savefig('./figures/slr_residuals.png', dpi=300)plt.show()
 # from sklearn.svm import SVR#效果极差MSE train: 1603158.384, test: 4795321.793 R^2 train: -0.054, test: -0.071
