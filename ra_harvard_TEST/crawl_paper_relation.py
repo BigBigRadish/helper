@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-Created on 2019年5月26日
+Created on 2019年5月28日
 @author: Zhukun Luo
 Jiangxi university of finance and economics
 '''
@@ -8,7 +8,7 @@ Jiangxi university of finance and economics
 '''
 Goals:
  1. Collect information on department chairs and department party secretaries (name, year of service, CV) for social sciences departments (e.g. Economics, Political Science). 
-     a. Please randomly pick 1 department from a ��985�� university and 1 department from a university not in the 985/211 rank. 
+     a. Please randomly pick 1 department from a 985 university and 1 department from a university not in the 985/211 rank. 
      b. Timeframe: focus on year 2000 to today.
  2. Use sources such as CNKI, Google Scholar, and Baidu Baike to collect information on all the papers published by all researchers (including dean/chair) from these departments during this time frame. 
  3. Identify patterns of published research during this time, and the relationship of published research by department members and the leaders. 
